@@ -1,0 +1,68 @@
+.container {
+    text-align: center;
+}
+
+body {
+    background-color: #C565FF;
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+    color: white;
+}
+
+
+p {
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+}
+
+img {
+    width: 60%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    box-shadow: 0 0 0 3.5px white;
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+}
+
+figcaption {
+    text-align: center;
+    max-width: 60%;
+    margin: 10px auto;
+    color: white;
+    font-style: italic;
+}
+
+
+h3#headline {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    margin-top: 24px;
+}
+
+ul {
+    list-style-type: none;
+    margin-left: 20px;
+    padding: 0;
+    text-align: center;
+    font-size: 16px;
+}
+
+li {
+    font-size: 16px;
+    color: white;
+    margin-top: 10px;
+}
