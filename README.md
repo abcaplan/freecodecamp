@@ -11,6 +11,8 @@ The folders are in this order, based on the chronological order of completetion:
 
 6  Rothko Painting (CSS Box Model)  
 7  Photo Gallery (CSS Flexbox)  
-8  Nutrition Label (Typography)  
-9  Quiz (Accessibility)
-**10 CERTIFICATION Tribute Page**
+8  Nutrition Label (Typography)   
+9  Quiz (Accessibility)  
+**10 CERTIFICATION Tribute Page**  
+
+11 Balance Sheet (CSS Pseudo Selectors)
