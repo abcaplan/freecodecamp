@@ -14,6 +14,6 @@ The folders are in this order, based on the chronological order of completetion:
 9  Quiz (Accessibility)  
 **10 CERTIFICATION Tribute Page**  
 
-11 Balance Sheet (CSS Pseudo Selectors - using tables)
+11 Balance Sheet (CSS Pseudo Selectors - using tables)  
 12 Cat Painting (Intermediate CSS)  
 13 Piano (Responsive Web Design)  
