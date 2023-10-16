@@ -15,4 +15,4 @@ The folders are in this order, based on the chronological order of completetion:
 **10 CERTIFICATION Tribute Page**  
 
 11 Balance Sheet (CSS Pseudo Selectors - using tables)
-12 Cat Painting (Intermediate CSS)
+12 Cat Painting (Intermediate CSS)  
