@@ -18,3 +18,5 @@ The folders are in this order, based on the chronological order of completetion:
 12 Cat Painting (Intermediate CSS)  
 13 Piano (Responsive Web Design)  
 **14 CERTIFICATION Technical Documentation Page**  
+
+15 City Skyline (CSS Variables)  
