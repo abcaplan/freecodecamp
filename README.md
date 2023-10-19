@@ -20,3 +20,4 @@ The folders are in this order, based on the chronological order of completetion:
 **14 CERTIFICATION Technical Documentation Page**  
 
 15 City Skyline (CSS Variables)  
+16 Magazine (CSS Grid)  
