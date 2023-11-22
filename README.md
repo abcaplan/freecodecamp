@@ -1,6 +1,10 @@
-This project is for learning how to develop a responsive web design.
+This project shows my journey to learning web development using free codecamp.
 
-The folders are in this order, based on the chronological order of completetion:
+Currently, I have achieved only the Responsive Web Design Certificate (complete)
+
+The rest of this documentaion contains information on each certificate type project and what each primary folder contains:
+
+- Responsive Web Design
 
 1 Cat Photo App (HTML)  
 2 Cafe Menu (Basic CSS)  
