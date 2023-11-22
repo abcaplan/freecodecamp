@@ -30,3 +30,6 @@ The rest of this documentaion contains information on each certificate type proj
 18 Ferris Wheel (CSS Animation)  
 19 Flappy Penguin (CSS Transforms)  
 **20 CERTIFICATION Personal Portfolio Webpage**  
+
+
+- JavaScript Algorithms and Data Structures
